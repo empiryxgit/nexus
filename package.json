@@ -10,8 +10,8 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.4",
-    "typescript": "~6.0.2",
-    "vite": "^8.0.12"
+    "typescript": "~5.8.3",
+    "vite": "^7.0.0"
   },
   "dependencies": {
     "framer-motion": "^12.40.0",
